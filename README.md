@@ -1,4 +1,4 @@
 # FileUploadWithIPFS
 FileUploadWithIPFS<br>
 Boilerplate code with this command<br>
-truffle unbox react
+<b>truffle unbox react</b>
